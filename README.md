@@ -1,3 +1,4 @@
+<img src="images/banner.png">
 <h1 align="center">Hi 👋, I'm Jannatul Ferdous</h1>
 <h3 align="center">I am a Web Developer</h3>
 
